@@ -1,0 +1,23 @@
+FB 1 - Dados em Bioinformática
+
+1)
+    a)  Total: 59
+        Dna: 5
+        Rna: 54
+    
+    b) Illumina HiSeq 2000
+
+    c)
+        i) SRX3180842
+
+        ii) WGS;
+            é um método que analiza o genoma por completo.
+
+        iii) Paired-end;
+
+            Paired-end: sequencia um genoma tanto do fim quanto do começo, produz uma análise com muita precisão, sem custo de performance;
+
+            Single-end: sequencia um genoma de uma direção apenas, é um método simples e pode útil para genomas pequenos.
+
+        iv) 2 runs;
+            1º: 11.1Gb, 2º: 20.9Gb, Total: 32Gb

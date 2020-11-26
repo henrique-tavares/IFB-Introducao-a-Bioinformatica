@@ -1,0 +1,16 @@
+>Canis_familiaris300369_SNORD102 TGA 5
+>Dasypus_novemcinctus300001_SNORD102 TTT 5
+>Echinops_telfairi300320_SNORD102 TGA 6
+>Equus_caballus300350_SNORD102 TGA 5
+>Erinaceus_europaeus300410_SNORD102 AAA 5
+>Homo_sapiens300597_SNORD102 TTT 6
+>Loxodonta_africana300437_SNORD102 TGA 6
+>Macaca_mulatta300736_SNORD102 TTT 6
+>Microcebus_murinus300424_SNORD102 TGA 4
+>Mus_musculus300778_SNORD102 TGA 5
+>Ornithorhynchus_anatinus303877_SNORD102 GAT 4
+>Oryctolagus_cuniculus300415_SNORD102 TGA 5
+>Pan_troglodytes300737_SNORD102 TTT 6
+>Pongo_pygmaeus300712_SNORD102 TTT 6
+>Rattus_norvegicus301020_SNORD102 TGA 5
+>Sorex_araneus301025_SNORD102 TTT 6
